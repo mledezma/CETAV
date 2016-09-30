@@ -33,6 +33,10 @@ dd {
 	width: 72%;
 }
 
+.row{
+	margin-bottom: 20px;
+}
+
 /* Helpers */
 
 .clearfix{
