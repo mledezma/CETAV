@@ -1,0 +1,104 @@
+/* Reset */
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/* General */
+
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+
+p {
+	line-height: 1.5;
+}
+
+dt {
+	border-right: 1px solid #999;
+	float: left;
+	font-size: 20px;
+	font-style: oblique;
+	font-weight: bold;
+	height: 95px;
+	padding-right: 3%;
+    text-align: right;
+    width: 21%;
+
+}
+
+dd {
+	float: right;
+	width: 72%;
+}
+
+/* Helpers */
+
+.clear{
+	clear: both;
+}
+
+/* Container */
+
+.wrapper {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 800px;
+}
+
+/* Contact Info */
+
+.cthulu-pic {
+	float: right;
+}
+
+.contact-info {
+	margin-bottom: 20px;
+}
+
+.fn {
+	border-bottom: 1px solid #333;
+	padding-bottom: 5px;
+	margin: 20px 0 15px;
+}
+
+.email {
+	border-bottom: 1px dotted #999;
+	color: #999;
+	text-decoration: none;
+}
+
+/* Objetive */
+
+.cthulu-objective {
+	margin-bottom: 40px;
+}
+
+.cthulu-objective p {
+	color: #6C6C6C;
+	font-family: "Times", "Arial", sans-serif;
+	font-style: oblique;
+	font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
