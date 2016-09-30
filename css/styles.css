@@ -23,9 +23,7 @@ p {
 dt {
 	border-right: 1px solid #999;
 	float: left;
-	font-size: 20px;
-	font-style: oblique;
-	font-weight: bold;
+	font: oblique bold 20px "Helvetica", sans-serif;
 	height: 95px;
 	padding-right: 3%;
     text-align: right;
@@ -96,37 +94,14 @@ dd {
 
 .cthulu-objective p {
 	color: #6C6C6C;
-	font-family: "Times", "Arial", sans-serif;
-	font-style: oblique;
-	font-size: 19px;
+	font: oblique 19px/1.5 "Times", "Arial", sans-serif;
 }
 
 /* Info */
 
 .diferent-title {
     color: #999;
-    float: right;
-	font-weight: normal;
-    font-size: 15px;
-    font-style: italic;
+	float: right;
+    font: italic normal 15px "Helvetica", "Arial", sans-serif;
     text-align: right;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
