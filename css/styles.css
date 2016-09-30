@@ -35,9 +35,11 @@ dd {
 
 /* Helpers */
 
-.clear{
-	clear: both;
+.clearfix{
+  overflow: auto;
+  zoom: 1;
 }
+
 
 /* Container */
 
