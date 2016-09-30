@@ -11,6 +11,11 @@ body {
 	font-family: "Helvetica", "Arial", sans-serif;
 }
 
+h2 {
+	font-size: 22px;
+	margin-bottom: 8px;
+}
+
 p {
 	line-height: 1.5;
 }
@@ -33,13 +38,21 @@ dd {
 	width: 72%;
 }
 
-.row{
+.row {
 	margin-bottom: 20px;
+}
+
+.row ul {
+    margin-bottom: 30px;
+}
+
+.row li {
+    margin-bottom: 3px;
 }
 
 /* Helpers */
 
-.clearfix{
+.clearfix {
   overflow: auto;
   zoom: 1;
 }
@@ -88,7 +101,16 @@ dd {
 	font-size: 19px;
 }
 
+/* Info */
 
+.diferent-title {
+    color: #999;
+    float: right;
+	font-weight: normal;
+    font-size: 15px;
+    font-style: italic;
+    text-align: right;
+}
 
 
 
