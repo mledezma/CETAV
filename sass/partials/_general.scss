@@ -1,0 +1,42 @@
+// General 
+ 
+body {
+	font-family: $primary-font;
+}
+
+h2 {
+	font-size: 22px;
+	margin-bottom: 8px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+dt {
+	border-right: 1px solid $light-gray;
+	float: left;
+	font: oblique bold 20px $primary-font;
+	height: 95px;
+	padding-right: 3%;
+	text-align: right;
+	width: 21%;
+
+}
+
+dd {
+	float: right;
+	width: 72%;
+}
+
+.row {
+	margin-bottom: 20px;
+	
+	li {
+	margin-bottom: 3px;
+	}
+}
+
+.margin-bottom-row {
+	margin-bottom: 30px;
+}
