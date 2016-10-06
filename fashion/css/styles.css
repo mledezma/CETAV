@@ -1,0 +1,36 @@
+* {
+  margin: 0 auto;
+  padding: 0; }
+
+body {
+  font: 14px/1.5 "Helvetica", "Arial", sans-serif; }
+
+.wrapper {
+  margin: 0 auto;
+  width: 970px; }
+
+.banner {
+  display: block; }
+
+.pop-out {
+  width: 316px;
+  position: absolute;
+  top: 35%;
+  left: 55%;
+  background-color: #fff;
+  padding: 10px; }
+
+.article, .article h3 {
+  margin: 15px 0;
+  width: 316px; }
+
+.article {
+  float: left; }
+
+.center {
+  margin: 15px 10px; }
+
+.pop h2 {
+  color: #04b0ed; }
+
+/*# sourceMappingURL=styles.css.map */
