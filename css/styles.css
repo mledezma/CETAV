@@ -26,8 +26,8 @@ dt {
 	font: oblique bold 20px "Helvetica", sans-serif;
 	height: 95px;
 	padding-right: 3%;
-    text-align: right;
-    width: 21%;
+	text-align: right;
+	width: 21%;
 
 }
 
@@ -41,18 +41,18 @@ dd {
 }
 
 .margin-bottom-row {
-    margin-bottom: 30px;
+	margin-bottom: 30px;
 }
 
 .row li {
-    margin-bottom: 3px;
+	margin-bottom: 3px;
 }
 
 /* Helpers */
 
 .clearfix {
-  overflow: auto;
-  zoom: 1;
+	overflow: auto;
+	zoom: 1;
 }
 
 
@@ -100,8 +100,8 @@ dd {
 /* Info */
 
 .diferent-title {
-    color: #999;
+	color: #999;
 	float: right;
-    font: italic normal 15px "Helvetica", "Arial", sans-serif;
-    text-align: right;
+	font: italic normal 15px "Helvetica", "Arial", sans-serif;
+	text-align: right;
 }
