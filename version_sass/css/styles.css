@@ -1,0 +1,73 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  font-family: "Helvetica", "Arial", sans-serif; }
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 8px; }
+
+p {
+  line-height: 1.5; }
+
+dt {
+  border-right: 1px solid #999;
+  float: left;
+  font: oblique bold 20px "Helvetica", "Arial", sans-serif;
+  height: 95px;
+  padding-right: 3%;
+  text-align: right;
+  width: 21%; }
+
+dd {
+  float: right;
+  width: 72%; }
+
+.row {
+  margin-bottom: 20px; }
+  .row li {
+    margin-bottom: 3px; }
+
+.margin-bottom-row {
+  margin-bottom: 30px; }
+
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
+
+.wrapper {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 800px; }
+
+.cthulu-pic {
+  float: right; }
+
+.contact-info {
+  margin-bottom: 20px; }
+
+.fn {
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+  margin: 20px 0 15px; }
+
+.email {
+  border-bottom: 1px dotted #999;
+  color: #999;
+  text-decoration: none; }
+
+.cthulu-objective {
+  margin-bottom: 40px; }
+  .cthulu-objective p {
+    color: #6C6C6C;
+    font: oblique 19px/1.5 "Times", "Arial", sans-serif; }
+
+.diferent-title {
+  color: #999;
+  float: right;
+  font: italic normal 15px "Helvetica", "Arial", sans-serif;
+  text-align: right; }
+
+/*# sourceMappingURL=styles.css.map */
