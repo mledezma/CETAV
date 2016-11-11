@@ -1,2 +1,2 @@
-# CETAV
-A little repo for the CETAV carreer
+# Fashion
+A little repo for the Fashion Homework
